@@ -1,0 +1,14 @@
+pojos\CreateUserRequest.class
+pojos\AuthorizeUserRequest.class
+entities\RestEntity.class
+generators\AuthorizeRequestGenerator.class
+helpers\RandomList.class
+configs\Config.class
+entities\UserEntity.class
+generators\UpdateUserRequestGenerator.class
+pojos\UpdateUserRequest.class
+entities\OrderEntity.class
+generators\UserRequestGenerator.class
+generators\OrderRequestGenerator.class
+pojos\CreateOrderRequest.class
+pojos\DeleteUserRequest.class
